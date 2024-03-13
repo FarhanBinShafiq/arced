@@ -1,4 +1,4 @@
-# Data Scientist
+# Arced Foundation
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
